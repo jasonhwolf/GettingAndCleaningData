@@ -1,14 +1,14 @@
-# ==============================================
-#
-# This R script cleans up the data obtained here:
-# http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-#
-# Here are the data for the project:
-# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-#
-#
-# Here is the process the script follows
-# ======================================
+==============================================
+
+This R script cleans up the data obtained here:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Here are the data for the project:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+
+Here is the process the script follows
+======================================
 
 # 1) Merges the training and the test sets to create one data set.
 
